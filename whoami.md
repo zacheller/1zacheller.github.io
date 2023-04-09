@@ -10,7 +10,7 @@ permalink: /whoami/
   * Head of Cybersecurity Curriculum Development at The Coding School in LA
 * Open Source Supporter and Contributer
 * Current and Past Affiliations
-  * Pacific Hackers - Co-Hosted [Under and Over the Wire Event](https://www.meetup.com/pacifichackers/events/283736078/)
+  * Pacific Hackers Association - Co-Hosted [Under and Over the Wire Event](https://www.meetup.com/pacifichackers/events/283736078/)
   * LaunchCode - Tech Leadership Fellow and Mentor
   * STL OWASP - Co-Wrote [QUARANTINE CTF](https://www.meetup.com/OWASP-STL/events/268671040/)
   * DC314 - Lightning talks, [mini-workshops](https://www.meetup.com/St-Louis-2600/events/skcdpnybcdbkb/)
@@ -37,7 +37,7 @@ permalink: /whoami/
 |Full-Stack Development |Spring Boot, Django, LAMP |
 |Shell Scripting|Bash, Zsh, Powershell |
 |System Administration |AWS, OCI, Debian, RHEL, Docker |
-|Penetration Testing  |GWAPT, nmap, OWASP ZAP, hydra |
+|Penetration Testing  | nmap, OWASP ZAP, hydra |
 |SIEM and SOAR | QRadar, Splunk, XSOAR, CBR |
 |Zscaler  |ZCCA-PA, ZCCA-IA, ZCA  |
 

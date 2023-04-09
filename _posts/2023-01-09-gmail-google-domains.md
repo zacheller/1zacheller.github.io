@@ -31,4 +31,4 @@ title: Configuring Gmail with a Google Domain using Google DNS
 ## Final Optional Settings
 1. Refresh the [Gmail Accounts and Import Settings](https://mail.google.com/mail/u/0/#settings/accounts) page to see your new, verified email(s)
 2. Select **Reply from the same address the message was sent to**
-3. Choose a new address to `make default`.
+3. Choose a new address to `make default`
