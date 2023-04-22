@@ -36,6 +36,7 @@ Continuous API Protection Lifecycle - Unified API Protection
 
 ### SIM Swapping and Broken Object Level AUTH (OWASP API1)
 Stealing your phone without touching it - then gaining access to financial info, etc
+
 If API says can't port phone number over, it means it's already a customer
 
 ### Inventory Validation Attack
