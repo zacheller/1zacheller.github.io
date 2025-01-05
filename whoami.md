@@ -29,6 +29,7 @@ permalink: /whoami/
   * 1st place at SECARMY Village CTF @Grayhat (10/20)
   * 1st place at Dyrwolf Inc's Cyber Weapon Range (10/20)
   * 1st place at Secure Coding Tournament @LocoMocoSec (11/20)
+  * 1st place at Parsons Denver Capture The Flag (09/24)
 * Pixel Artist and Guitarist
 
 ### Skills and Toolbelt
