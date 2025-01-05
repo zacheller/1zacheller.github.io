@@ -7,11 +7,10 @@ permalink: /whoami/
 
 * Cybersecurity Consultant and Ethical Hacking Educator
   * B.S./M.S. in Computer Science
-  * Head of Cybersecurity Curriculum Development at The Coding School in LA
-* Open Source Supporter and Contributer
 * Current and Past Affiliations
   * Pacific Hackers Association - Co-Hosted [Under and Over the Wire Event](https://www.meetup.com/pacifichackers/events/283736078/)
   * LaunchCode - Tech Leadership Fellow and Mentor
+  * The Coding School (LA) - Previous Head of Cybersecurity Curriculum Development
   * STL OWASP - Co-Wrote [QUARANTINE CTF](https://www.meetup.com/OWASP-STL/events/268671040/)
   * DC314 - Lightning talks, [mini-workshops](https://www.meetup.com/St-Louis-2600/events/skcdpnybcdbkb/)
   * RSA, BSidesSF, BSidesSTL, STLCYBER, STL Cloud Security Alliance
@@ -30,6 +29,7 @@ permalink: /whoami/
   * 1st place at Dyrwolf Inc's Cyber Weapon Range (10/20)
   * 1st place at Secure Coding Tournament @LocoMocoSec (11/20)
   * 1st place at Parsons Denver Capture The Flag (09/24)
+* Open Source Supporter and Contributor
 * Pixel Artist and Guitarist
 
 ### Skills and Toolbelt
