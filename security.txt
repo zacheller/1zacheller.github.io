@@ -4,7 +4,7 @@ permalink: /.well-known/security.txt
 # If you would like to report a security issue,
 # exposed PII, or an interest in hiring me,
 # please use the following address.
-Contact: mailto:forward_my_packets@protonmail.com
+Contact: solve captcha here for email--> https://spamty.eu/show/v7/278/4d06be1d1d/
 Preferred-Languages: en, es
 Canonical: zacheller.dev/.well-known/security.txt
 # Flag: flag{h3ll0_STL_0W4SP_H0WR3_U?}
